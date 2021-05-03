@@ -1,0 +1,6 @@
+int num = 77
+short sum = 1
+byte bip = 3
+string word = "sdsd"
+char ci = '6'
+byte los = 31
